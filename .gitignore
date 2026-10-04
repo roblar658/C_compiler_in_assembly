@@ -1,0 +1,15 @@
+# Intermediate objects and outputs
+*.obj
+*.o
+out.asm
+out.exe
+out.obj
+
+# Generated test artifacts
+tests/*.obj
+tests/*.exe
+tests/*.asm
+tests/temp_*
+
+# Debugging scripts
+debug*.gdb
